@@ -1,3 +1,6 @@
+New repository address: https://gitlab.com/meerd/risc-v-tools
+
+
 # RISC-V-tools
 Precompiled RISC-V tools binaries for Ubuntu/Debian. (Toolchain + SPIKE)
 
